@@ -13,7 +13,7 @@ Problem: regression
 
 Final Model: Random Forest Tuning
 
-Link Repositori: https://github.com/Aridawulan/final-project-kelompok-02-ramdhan/edit/main/README.md
+Link Repositori: https://github.com/Aridawulan/final-project-kelompok-02-ramdhan
 
 Link PPT: https://docs.google.com/presentation/d/1QVEy4ngNTkUiGq-xd_NZDe6L1hsgNAc5Gy4nfuE01Q8/edit#slide=id.g13bebdcb8ac_2_343
 
